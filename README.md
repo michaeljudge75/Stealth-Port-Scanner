@@ -1,2 +1,2 @@
 # Port-Scanner
-A Stealth Port Scanner written in Rust
+A TCP Port Scanner written in Rust
